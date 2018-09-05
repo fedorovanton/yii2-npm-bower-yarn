@@ -16,7 +16,6 @@ $config = [
         'assetManager' => [
             'bundles' => array_merge(
                 require(__DIR__ . '/assets-default.php'),
-                require(__DIR__ . '/assets-extended.php')
             ),
         ],
     ],
