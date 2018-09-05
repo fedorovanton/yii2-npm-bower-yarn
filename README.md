@@ -19,11 +19,7 @@
 ~~~
 ...
 
-'assetManager' => [
-            'bundles' => array_merge(
-                require(__DIR__ . '/assets-default.php'),
-            ),
-        ],
+'assetManager' => ['bundles' => require(__DIR__ . '/assets-default.php')],
     
 ...
 ~~~
