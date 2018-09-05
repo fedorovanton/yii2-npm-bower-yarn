@@ -1,7 +1,7 @@
 # yii2-npm-bower-yarn
-Подключение и настройка npm, bower, yarn в Yii2 (basic)
+Данная инструкция поможет подключить сборщики пакетов и зависимостей npm, bower, yarn в Yii2 (basic). 
 
-Добавить алиасы в /config/web.php:
+1. Добавить алиасы в /config/web.php:
 ~~~
 ...
 
@@ -28,7 +28,7 @@
 ...
 ~~~
 
-Создать файл assets-default.php:
+Создать файл /config/assets-default.php:
 
 ~~~
 <?php
