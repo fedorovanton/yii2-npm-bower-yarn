@@ -71,3 +71,5 @@ https://www.npmjs.com
     
 https://bower.io
     
+> Если будут вопросы пишите: 
+> Telegram @fedorov_anton
