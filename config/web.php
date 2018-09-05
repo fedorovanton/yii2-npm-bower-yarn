@@ -8,8 +8,8 @@ $config = [
     // ...
     
     'aliases' => [
-        '@bower' => '@app/components',
-        '@npm'   => '@app/node_modules',
+        '@bower'  => '@vendor/bower-asset',
+        '@yarn'   => '@app/node_modules',
     ],
     'components' => [
         // ...
