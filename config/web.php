@@ -9,6 +9,7 @@ $config = [
     
     'aliases' => [
         '@bower'  => '@vendor/bower-asset',
+        '@npm'    => '@vendor/npm-asset',
         '@yarn'   => '@app/node_modules',
     ],
     'components' => [
